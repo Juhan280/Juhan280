@@ -6,5 +6,5 @@
 <!-- ![Juhan's Top Languages](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Juhan280&langs_count=6&layout=compact&theme=react&hide_border=true&bg_color=090909) -->
 
 - Contact me on:
-  - Discord: [Juhan280#5280](https://discord.com/users/748758747861745796)
+  - Discord: [Juhan280#0965](https://discord.com/users/748758747861745796)
   - Facebook: [Juhan Ahmed](https://www.facebook.com/juhan.ahmed.2007)
