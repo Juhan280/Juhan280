@@ -1,4 +1,4 @@
-### Hi there :wave:, I am Juhan
+### Hi there 👋, I am Juhan
 ---
 <br>
 
