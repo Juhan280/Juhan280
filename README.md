@@ -6,4 +6,4 @@
 ![Juhan's Top Languages](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Juhan280&langs_count=6&layout=compact&theme=react&hide_border=true&bg_color=090909)
 
 - Contact me on:
-  - <img alt="discord-icon" src="discord-icon.svg" height="15em"> Discord: [Juhan280#0965](https://discord.com/users/748758747861745796)
+  - <img alt="discord-icon" src="discord-icon.svg" height="15em"> Discord: [Juhan280](https://discord.com/users/748758747861745796)
