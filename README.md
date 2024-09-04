@@ -1,9 +1,21 @@
-### Hi there 👋, I am Juhan
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/748758747861745796) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Juhan280&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Juhan280&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Juhan280&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Juhan280&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Juhan280&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
 ---
-<br>
+[![](https://visitcount.itsvg.in/api?id=Juhan280&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![Juhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juhan280&theme=react&show_icons=true&bg_color=090909&hide_border=true&count_private=true)](https://github.com/Juhan280)
-![Juhan's Top Languages](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Juhan280&langs_count=6&layout=compact&theme=react&hide_border=true&bg_color=090909)
-
-- Contact me on:
-  - <img alt="discord-icon" src="discord-icon.svg" height="15em"> Discord: [Juhan280](https://discord.com/users/748758747861745796)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
