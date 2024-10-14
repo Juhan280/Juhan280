@@ -1,6 +1,6 @@
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/748758747861745796) 
+[![Discord](https://img.shields.io/badge/Discord-5865f2.svg?logo=discord&logoColor=white)](https://discord.com/users/748758747861745796) [![Matrix](https://img.shields.io/badge/Matrix-333333.svg?logo=matrix&logoColor=white)](https://matrix.to/#/@juhan280:matrix.org)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Juhan280&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Juhan280&theme=tokyonight&hide_border=true)<br/>
